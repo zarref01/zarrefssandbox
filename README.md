@@ -9,4 +9,4 @@ Github: https://github.com/zarref01
 
 Code Academy: https://www.codecademy.com/users/zzaref_01/achievements
 
-Instagram: rafaelaf_89
+Instagram: [rafaelaf_89] (https://www.instagram.com/rafaelaf_89/)
