@@ -6,5 +6,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário funci
 Acredito que a combinação de habilidades técnicas e a mentalidade voltada para resultados é essencial para o sucesso em qualquer projeto. Estou sempre em busca de novos desafios que me permitam crescer profissionalmente e contribuir para o desenvolvimento de soluções de alta qualidade.
 
 Github: https://github.com/zarref01
+
 Code Academy: https://www.codecademy.com/users/zzaref_01/achievements
+
 Instagram: rafaelaf_89
